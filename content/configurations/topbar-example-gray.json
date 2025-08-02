@@ -1,0 +1,15 @@
+{
+  "marquee": {
+    "data": {
+      "active": true,
+      "speed": 50
+    },
+    "order": 1
+  },
+  "content": {
+    "data": {
+      "texto": "<strong>📚</strong> Welcome to our examples! Discover exclusive resources here."
+    },
+    "order": 2
+  }
+}

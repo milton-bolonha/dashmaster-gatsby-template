@@ -1,0 +1,40 @@
+{
+  "title": "Bubble Window Installations in Toronto",
+  "description": "Discover the future of comfort and style with Bubble Window. We specialize in installing and maintaining innovative bubble plastic windows across Toronto and the GTA. Eco-friendly, lightweight, and fun. Request a free estimate today!",
+  "author": "Bubble Window",
+  "siteUrl": "https://bubblewindow.ca",
+  "keywords": [
+    "bubble windows",
+    "plastic bubble window installation",
+    "eco window Toronto",
+    "modern window solutions",
+    "alternative window design",
+    "lightweight window panels"
+  ],
+  "business": {
+    "name": "Bubble Window",
+    "address": {
+      "street": "42 Bubble Lane, Suite B",
+      "city": "Toronto",
+      "region": "ON",
+      "postalCode": "M5H 2N2",
+      "country": "Canada"
+    },
+    "phone": "+1-416-123-9876",
+    "email": "hello@bubblewindow.ca",
+    "openingHours": "Mo-Fr 08:30-18:00",
+    "social": {
+      "facebook": "https://facebook.com/bubblewindow",
+      "instagram": "https://instagram.com/bubblewindow"
+    },
+    "logo": "/images/bubble-window-logo.jpg"
+  },
+  "tracking": {
+    "googleSiteVerification": null,
+    "gtag": null
+  },
+  "integrations": {
+    "googleAds": null,
+    "microsoftAds": null
+  }
+}

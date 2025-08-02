@@ -1,0 +1,15 @@
+{
+  "marquee": {
+    "data": {
+      "active": true,
+      "speed": 20
+    },
+    "order": 1
+  },
+  "content": {
+    "data": {
+      "texto": "<strong>✅</strong> Success! You've unlocked premium access to exclusive content."
+    },
+    "order": 2
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "marquee": {
+    "data": {
+      "active": true,
+      "speed": 30
+    },
+    "order": 1
+  },
+  "content": {
+    "data": {
+      "texto": "🎉 We Smash <strong>All Written Quote By 5%</strong>"
+    },
+    "order": 2
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "boxes": [
+    {
+      "order": 1,
+      "title": "Protection for All Building Types",
+      "text": "From skyscrapers to smaller structures, we provide expert bubble wrap insulation and sealing solutions.",
+      "icon": "building"
+    },
+    {
+      "order": 2,
+      "title": "Industrial and Commercial Spaces",
+      "text": "We offer durable bubble wrap applications to safeguard and insulate factories, warehouses, and offices.",
+      "icon": "industrial"
+    },
+    {
+      "order": 3,
+      "title": "Residential Comfort",
+      "text": "Improve your home's energy efficiency and comfort with our customized bubble wrap services.",
+      "icon": "home"
+    },
+    {
+      "order": 4,
+      "title": "Outdoor and Landscape Protection",
+      "text": "Our bubble wrap solutions also extend to outdoor areas, providing protection for gardens, patios, and walkways.",
+      "icon": "landscaping"
+    }
+  ]
+}

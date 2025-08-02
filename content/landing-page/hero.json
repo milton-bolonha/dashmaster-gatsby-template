@@ -1,0 +1,47 @@
+{
+  "background": {
+    "data": {
+      "image": "/images/hero-bg.webp",
+      "overlay": true
+    },
+    "order": 1
+  },
+  "heading": {
+    "data": {
+      "text": "Expert Bubble Wrap Solutions for Windows and More",
+      "level": 1
+    },
+    "order": 2
+  },
+  "subHeading": {
+    "data": {
+      "text": "Effective Bubble Wrap Insulation to Prevent Drafts, Water Leaks, and Temperature Loss"
+    },
+    "order": 3
+  },
+  "textSlider": {
+    "data": {
+      "heading": "Affordable, Reliable Bubble Wrap Services",
+      "content": "<p>Protecting Homes and Businesses with Quality Bubble Wrap Insulation and Sealing</p>",
+      "button": {
+        "label": "Learn More",
+        "link": "/about-us"
+      }
+    },
+    "order": 4
+  },
+  "form": {
+    "data": {
+      "id": "quote-form",
+      "heading": "Get Your Free Quote",
+      "subheading": "Receive a custom proposal within 24 hours",
+      "postFormContent": "Thank you! We'll contact you shortly.",
+      "formType": "jotform",
+      "formData": {
+        "formId": "123456789",
+        "fields": ["name", "email", "phone", "message"]
+      }
+    },
+    "order": 5
+  }
+}
