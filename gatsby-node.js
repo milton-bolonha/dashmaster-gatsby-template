@@ -1,6 +1,8 @@
 const path = require("path");
 const fetch = require("node-fetch");
-
+require("dotenv").config({
+  path: `.env.${process.env.NODE_ENV || "development"}`,
+});
 // Função para buscar todos os dados da API pública
 async function getSourceData() {
   const apiUrl = `${process.env.GATSBY_API_URL}/api/public/content`;
